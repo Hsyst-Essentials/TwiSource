@@ -1,7 +1,7 @@
 # TwiSource - Seu "Twitter" Open Source!
 
 ## Tutorial de Uso!
-[Clique aqui](https://github.com/Hsyst/TwiSource/blob/main/how-to-use.md) para acessar o tutorial de uso!
+[Clique aqui](https://github.com/Hsyst-Essentials/TwiSource/blob/main/how-to-use.md) para acessar o tutorial de uso!
 
 # TwiSource - Documentação Técnica
 
@@ -93,7 +93,7 @@ Esse projeto, utiliza WebSocket para conseguir tornar o recursos de Comentários
 Esse projeto foi criado pela [op3n/op3ny](https://github.com/op3ny).
 
 # Licença
-Esse projeto está sob a licença [Unlicense](https://github.com/Hsyst/TwiSource/blob/main/LICENSE)
+Esse projeto está sob a licença [Unlicense](https://github.com/Hsyst-Essentials/TwiSource/blob/main/LICENSE)
 
 # Hsyst!!
 A Hsyst Project.
