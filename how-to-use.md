@@ -1,7 +1,7 @@
 # Tutorial de Uso - TwiSource
 
 ## Passo 1
-Realize o [download do TwiSource](https://github.com/Hsyst/TwiSource/releases)
+Realize o [download do TwiSource](https://github.com/Hsyst-Essentials/TwiSource/releases)
 
 ## Passo 2
 Nesse tutorial, estamos considerando que você já tenha instalado o [NodeJS e NPM](https://nodejs.org/en/download) em sua máquina.
